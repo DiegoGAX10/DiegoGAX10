@@ -2,7 +2,7 @@
 
 🎓 **Computer Systems Engineering student** specializing in **Data Science** at *Instituto Tecnológico de Zacatepec (ITZ)*.  
 💡 Passionate about applying **AI**, **mobile development**, and **real-time data systems** to solve real-world problems.  
-🏆 Winner of multiple **national and regional hackathons**, leading projects that merge innovation with practical impact.
+🏆 Winner of multiple **national and regional hackathons**.
 
 ---
 
