@@ -8,17 +8,22 @@ Passionate about applying **AI**, **mobile development**, and **real-time data s
 
 ## Projects & Achievements
 
+**Biodiversity OS – Infrastructure Engineer**
+*CONABIO Hackathon – Nov 2025*
+- Engineered a Unix-based OS for Raspberry Pi biodiversity monitoring devices.
+- Simulated device behavior on AWS EC2 for remote debugging.
+- Set up a centralized EC2 server with secure SSH communication.
+
+**Hack Monterrey – Oct 2025**
+- Built an RNN forecasting model achieving 0.98 accuracy.
+- Designed a Flask REST API for real-time inference.
+- Containerized and deployed the system on AWS EC2 using Docker.
+
 **Scientific Summer Research (NLP & AI)**
 *TecNM Zacatepec – Jul 2025 – Aug 2025*  
 - Designed a **machine learning pipeline** for emotion classification in English text using **Plutchik’s emotion model**.  
 - Combined **TF-IDF**, **spaCy embeddings**, and **logistic regression**, achieving *F1-macro: 0.91* and *accuracy: 94%*.  
 - Validated a **hybrid NLP/classic ML** approach for interpretable emotion analysis.
-
-**StepVoice – AR-Powered Assembly Assistant**
-*HackatecTecNM Regional Phase – Morelos, Sep 2025*  
-- Developed an **AR mobile app** to guide users in assembling objects without written manuals.  
-- Integrated **3D STL models** with real-time **voice and visual cues**.  
-- Led the mobile team —  *1st Place Regional Winner*.
 
 **Vortex Project – Volvo México**
 *HackatecTecNM National Phase – Colima, Nov 2024*  
