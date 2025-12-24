@@ -6,7 +6,7 @@ Passionate about applying **Artificial Intelligence**, **mobile development**, a
 
 ---
 
-## 🎧 Now Playing on Apple Music
+##  Now Playing on Apple Music
 
 <p align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=DiegoGAX10&width=400" />
@@ -14,7 +14,7 @@ Passionate about applying **Artificial Intelligence**, **mobile development**, a
 
 ---
 
-## 🚀 Projects & Achievements
+##  Projects & Achievements
 
 ### **Biodiversity OS – Infrastructure Engineer**  
 *CONABIO Hackathon · Nov 2025*
@@ -46,7 +46,7 @@ Passionate about applying **Artificial Intelligence**, **mobile development**, a
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### **Instituto Tecnológico de Zacatepec (ITZ)**  
 *B.S. in Computer Systems Engineering – Data Science Specialization*  
@@ -58,10 +58,10 @@ Aug 2017 – Jul 2020 · Cuernavaca, Morelos, MX
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
-📧 [diego.gallegos@ieee.org](mailto:diego.gallegos@ieee.org)  
-💼 [LinkedIn](https://linkedin.com/in/diegogax10)
+[diego.gallegos@ieee.org](mailto:diego.gallegos@ieee.org)  
+[LinkedIn](https://linkedin.com/in/diegogax10)
 
 ---
 
