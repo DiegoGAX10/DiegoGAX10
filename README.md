@@ -6,6 +6,11 @@ Passionate about applying **AI**, **mobile development**, and **real-time data s
 
 ---
 
+### 🎧 Now Playing on Apple Music
+
+![Last.fm](https://lastfm-recently-played.vercel.app/api?user=DiegoGAX10)
+
+
 ## Projects & Achievements
 
 **Biodiversity OS – Infrastructure Engineer**
