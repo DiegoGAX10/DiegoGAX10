@@ -23,7 +23,6 @@ Passionate about applying **AI**, **mobile development**, and **real-time data s
 *TecNM Zacatepec – Jul 2025 – Aug 2025*  
 - Designed a **machine learning pipeline** for emotion classification in English text using **Plutchik’s emotion model**.  
 - Combined **TF-IDF**, **spaCy embeddings**, and **logistic regression**, achieving *F1-macro: 0.91* and *accuracy: 94%*.  
-- Validated a **hybrid NLP/classic ML** approach for interpretable emotion analysis.
 
 **Vortex Project – Volvo México**
 *HackatecTecNM National Phase – Colima, Nov 2024*  
@@ -36,22 +35,6 @@ Passionate about applying **AI**, **mobile development**, and **real-time data s
 - Created a **mobile interface** for real-time transportation tracking.  
 -  *1st Place Regional Winner*.
 
----
-
-## Technologies
-
-**Languages:** Python, JavaScript, SQL  
-**Frameworks & Tools:** React Native, Firebase, Git  
-**Environments:** Linux, Windows, macOS, JetBrains Suite (IDEA, WebStorm, CLion, DataGrip)
-
----
-
-## Languages
-
-- **Spanish:** Native  
-- **English:** C2 (Native level)
-
----
 
 ## Education
 
