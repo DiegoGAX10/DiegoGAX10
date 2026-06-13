@@ -1,68 +1,123 @@
 # 👋 Hi, I'm Diego Antelmo Gallegos
 
-**Computer Systems Engineering student** specializing in **Data Science** at *Instituto Tecnológico de Zacatepec (ITZ)*.  
-Passionate about applying **Artificial Intelligence**, **mobile development**, and **real-time data systems** to solve real-world problems.  
-🏆 Winner of multiple **national and regional hackathons**.
+Computer Systems Engineering graduate specialized in Data Science from Instituto Tecnológico de Zacatepec.
+
+I build AI-powered applications, cloud-native systems, and real-time software solutions that transform data into actionable insights.
+
+ National Hackathon Champion
+ AWS & Cloud Computing Enthusiast
+ Artificial Intelligence & NLP Researcher
+ Mobile Application Developer
+ Morelos, Mexico
 
 ---
 
-##  Now Playing on Apple Music
+##  About Me
 
-<p align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=DiegoGAX10&width=400" />
-</p>
+* Developing intelligent systems using Machine Learning and Natural Language Processing.
+* Building scalable cloud infrastructure with AWS and Docker.
+* Creating mobile applications with React Native and Expo.
+* Passionate about solving real-world problems through technology and innovation.
+
+Currently interested in opportunities related to:
+
+* Machine Learning Engineering
+* Data Science
+* Cloud & DevOps Engineering
+* Software Development
 
 ---
 
-##  Projects & Achievements
+##  Technical Skills
 
-### **Biodiversity OS – Infrastructure Engineer**  
-*CONABIO Hackathon · Nov 2025*
-- Engineered a **Unix-based operating system** for Raspberry Pi biodiversity monitoring devices.
-- Simulated device behavior on **AWS EC2** to enable remote debugging.
-- Deployed a centralized EC2 server with **secure SSH communication**.
+### Languages
 
-### **Hack Monterrey**  
-*Oct 2025*
-- Built an **RNN forecasting model** achieving **0.98 accuracy**.
-- Designed a **Flask REST API** for real-time inference.
-- Containerized and deployed the system on **AWS EC2 using Docker**.
+Python • Java • JavaScript • SQL • C#
 
-### **Scientific Summer Research (NLP & AI)**  
-*TecNM Zacatepec · Jul 2025 – Aug 2025*
-- Designed a **machine learning pipeline** for emotion classification in English text using **Plutchik’s emotion model**.
-- Combined **TF-IDF**, **spaCy embeddings**, and **logistic regression**, achieving **F1-macro: 0.91** and **94% accuracy**.
+### AI & Data Science
 
-### **Vortex Project – Volvo México**  
-*HackatecTecNM National Phase · Colima · Nov 2024*
-- Built a **3D visualization and management platform** for Volvo engineering workflows.
-- Reduced planning time through **spatial interactions and matrix parsing**.
-- 🥇 **1st Place – National Winner**.
+Scikit-Learn • NLP • spaCy • TensorFlow • Data Analysis • Predictive Modeling
 
-### **MOVIMX – Real-Time Transportation System**  
-*HackatecTecNM Regional Phase · Oaxaca · Sep 2024*
-- Developed a **mobile interface** for real-time transportation tracking.
-- 🥇 **1st Place – Regional Winner**.
+### Cloud & DevOps
+
+AWS EC2 • Docker • Linux • SSH • GitHub Actions
+
+### Mobile & Web
+
+React Native • Expo • Flask • REST APIs
+
+### Databases
+
+MySQL • PostgreSQL
+
+---
+
+##  Featured Projects
+
+### Biodiversity OS — CONABIO (2025)
+
+🥇 National Winner — HackatecTecNM
+
+* Designed a Unix-based operating system for field devices.
+* Simulated hardware environments using AWS EC2.
+* Implemented secure communication through SSH tunnels.
+* Built centralized cloud infrastructure for remote monitoring.
+
+---
+
+### Emotion Classification using NLP (2025)
+
+Research project focused on multiclass emotion detection in English text.
+
+* Applied Plutchik’s Emotion Model.
+* Combined TF-IDF and spaCy embeddings.
+* Achieved 94% accuracy and 0.91 macro F1-score.
+* Developed an end-to-end machine learning pipeline.
+
+---
+
+### Forecasting Platform — Hack Monterrey (2025)
+
+AI-powered forecasting system deployed in the cloud.
+
+* Developed an RNN model with 0.98 accuracy.
+* Built a Flask API for real-time predictions.
+* Deployed services on AWS EC2 using Docker containers.
+
+---
+
+### Vortex Project — Volvo México (2024)
+
+🥇 National Winner — HackatecTecNM
+
+* Developed a 3D visualization platform for engineering workflows.
+* Improved planning efficiency through spatial interaction systems.
+* Created matrix-based data processing tools.
+
+---
+
+### MOVIMX (2024)
+
+🥇 Regional Winner — HackatecTecNM
+
+* Developed a mobile platform for real-time transportation tracking.
+* Focused on accessibility and live data visualization.
 
 ---
 
 ##  Education
 
-### **Instituto Tecnológico de Zacatepec (ITZ)**  
-*B.S. in Computer Systems Engineering – Data Science Specialization*  
-Aug 2021 – May 2026 · Zacatepec, Morelos, MX
+### Instituto Tecnológico de Zacatepec
 
-### **Preparatoria No. 6 – UAEM**  
-*Technical Degree in Informatics*  
-Aug 2017 – Jul 2020 · Cuernavaca, Morelos, MX
+Bachelor of Science in Computer Systems Engineering
+Data Science Specialization
+2021 – 2026
 
----
+### Universidad Autónoma del Estado de Morelos
 
-##  Connect with Me
-
-[diego.gallegos@ieee.org](mailto:diego.gallegos@ieee.org)  
-[LinkedIn](https://linkedin.com/in/diegogax10)
+Technical Degree in Informatics
+2017 – 2020
 
 ---
 
-*"Building meaningful technology that bridges innovation and human understanding."*
+> Building meaningful technology that bridges innovation and human understanding.
