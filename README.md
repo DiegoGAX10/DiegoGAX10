@@ -2,7 +2,7 @@
 
 Computer Systems Engineering graduate specialized in Data Science from Instituto Tecnológico de Zacatepec.
 
-I build AI-powered applications, cloud-native systems, and real-time software solutions that transform data into actionable insights.
+I build applications, cloud-native systems, and real-time software solutions that transform data into actionable insights.
 
  National Hackathon Champion
  AWS & Cloud Computing Enthusiast
